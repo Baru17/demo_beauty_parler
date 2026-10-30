@@ -1,0 +1,16 @@
+node_modules
+dist
+.vite
+*.local
+.DS_Store
+Thumbs.db
+# Build-time research assets, not part of the shipped site
+raw-images/source
+raw-images/thumbs
+raw-images/*.html
+raw-images/*.jpg
+raw-images/*.json
+raw-images/*.mjs
+raw-images/*.cjs
+raw-images/*.txt
+raw-images/add.mjs
